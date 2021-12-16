@@ -43,9 +43,9 @@ function handleGuess(userGuess, correctSpot) {
 }
 
 function setStyles() {
-    shedContainer.classList.add = 'face';
-    treeContainer.classList.add = 'face';
-    boulderContainer.classList.add = 'face';
+    shedContainer.classList.add['face'];
+    treeContainer.classList.add['face'];
+    boulderContainer.classList.add['face'];
 }
 
 shedButton.addEventListener('click', () => {
